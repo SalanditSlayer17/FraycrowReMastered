@@ -1,0 +1,3 @@
+displayName = Fraycrow Mod
+author = Salandit + Moogle
+version = 0.1
